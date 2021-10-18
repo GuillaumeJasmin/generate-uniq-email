@@ -1,0 +1,8 @@
+{
+  "short_name": "Generate Email",
+  "name": "Generate Email",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
