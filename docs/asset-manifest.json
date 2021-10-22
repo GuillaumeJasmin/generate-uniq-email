@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/generate-uniq-email/static/css/main.cb56faed.chunk.css",
+    "main.js": "/generate-uniq-email/static/js/main.a2b8c277.chunk.js",
+    "main.js.map": "/generate-uniq-email/static/js/main.a2b8c277.chunk.js.map",
+    "runtime-main.js": "/generate-uniq-email/static/js/runtime-main.2f3b8a0c.js",
+    "runtime-main.js.map": "/generate-uniq-email/static/js/runtime-main.2f3b8a0c.js.map",
+    "static/js/2.79f79413.chunk.js": "/generate-uniq-email/static/js/2.79f79413.chunk.js",
+    "static/js/2.79f79413.chunk.js.map": "/generate-uniq-email/static/js/2.79f79413.chunk.js.map",
+    "static/js/3.373d3852.chunk.js": "/generate-uniq-email/static/js/3.373d3852.chunk.js",
+    "static/js/3.373d3852.chunk.js.map": "/generate-uniq-email/static/js/3.373d3852.chunk.js.map",
+    "index.html": "/generate-uniq-email/index.html",
+    "static/css/main.cb56faed.chunk.css.map": "/generate-uniq-email/static/css/main.cb56faed.chunk.css.map",
+    "static/js/2.79f79413.chunk.js.LICENSE.txt": "/generate-uniq-email/static/js/2.79f79413.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f3b8a0c.js",
+    "static/js/2.79f79413.chunk.js",
+    "static/css/main.cb56faed.chunk.css",
+    "static/js/main.a2b8c277.chunk.js"
+  ]
+}
